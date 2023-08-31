@@ -1,0 +1,32 @@
+{
+  "name": "banglamart-module",
+  "version": "1.0.0",
+  "description": "modular package",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sazzad9911/banglamart-module.git"
+  },
+  "keywords": [
+    "banglamart"
+  ],
+  "author": "sazzad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sazzad9911/banglamart-module/issues"
+  },
+  "homepage": "https://github.com/sazzad9911/banglamart-module#readme",
+  "devDependencies": {
+    "axios": "^1.5.0",
+    "child_process": "^1.0.2",
+    "fs": "^0.0.1-security",
+    "os": "^0.1.2",
+    "path": "^0.12.7",
+    "url": "^0.11.1"
+  }
+}
